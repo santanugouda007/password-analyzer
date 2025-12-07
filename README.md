@@ -1,18 +1,6 @@
 # password-analyzer
-Here is a **professionally written, GitHub-ready `README.md`** for your project.
-Just copy–paste this into a file named **README.md** in your repository.
 
-If you want, I can also generate:
-✅ Project banner
-✅ Shields.io badges
-✅ File structure tree
-— Just tell me!
 
----
-
-# 🟦 **README.md — Password Strength Analyzer & Custom Wordlist Generator (GUI Tool)**
-
-```markdown
 # 🔐 Password Strength Analyzer & Custom Wordlist Generator (GUI Tool)
 
 A Python-based cybersecurity tool that analyzes password strength using advanced algorithms, calculates entropy, checks password policy compliance, detects common passwords, and generates custom wordlists for ethical security testing.
@@ -180,12 +168,5 @@ Contributions are welcome! Feel free to open:
 
 ---
 
-If you'd like, I can also give you:
 
-✅ *requirements.txt*  
-✅ GitHub repo description  
-✅ Tags for GitHub SEO  
-✅ License file (MIT recommended)
-
-Just say **“give me requirements file”** or **“give me full repo package”** and I’ll prepare everything!
 ```
